@@ -1,6 +1,6 @@
 # **Twitter Sentiment Analysis Project**
 
-**This project focuses on analyzing public sentiment towards brands and products on Twitter using Natural Language Processing (NLP) techniques.** The goal is to classify tweets into positive, negative, or neutral sentiment categories, provide comparative insights between major brands like Apple and Google, and offer actionable recommendations for customer satisfaction. The Cross-Industry Standard Process for Data Mining (CRISP-DM) guided to project approach.
+**This project focuses on analyzing public sentiment towards brands and products on Twitter using Natural Language Processing (NLP) techniques.** The goal is to classify tweets into positive, negative, or neutral sentiment categories, provide comparative insights between major brands like Apple and Google, and offer actionable recommendations for customer satisfaction. The Cross-Industry Standard Process for Data Mining (CRISP-DM) guides to project approach.
 
 ## Table of Contents
 * [1. Business Understanding](#1-business-understanding)
