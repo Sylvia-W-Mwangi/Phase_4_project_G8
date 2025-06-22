@@ -10,7 +10,7 @@
 * [5. Evaluation](#5-evaluation)
 * [6. Deployment & Recommendations](#6-deployment--recommendations)
 * [7. Conclusion](#7-conclusion)
-* [8. Technologies Used](#8-technologies-used)
+* [8. Libraries Used](#8-libraries-used)
 
 ## 1. Business Understanding
 
