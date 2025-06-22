@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis Project
+# **Twitter Sentiment Analysis Project**
 
 **This project focuses on analyzing public sentiment towards brands and products on Twitter using Natural Language Processing (NLP) techniques.** The goal is to classify tweets into positive, negative, or neutral sentiment categories, provide comparative insights between major brands like Apple and Google, and offer actionable recommendations for customer satisfaction.
 
@@ -17,16 +17,16 @@
 **In today's competitive landscape, understanding customer perceptions is paramount.** Social media, particularly platforms like Twitter, offers a rich source of real-time public sentiment. This project aims to leverage Twitter data to gain insights into customer emotions regarding various products and brands.
 
 ### Objectives
-* **To classify tweet sentiments as positive, negative, or neutral.**
-* **To compare sentiments and common word usage for Apple and Google products.**
-* **To build and evaluate binary text classifiers for positive vs. negative emotions.**
-* **To build and evaluate multiclass classifiers for positive, negative, and neutral emotions.**
-* **To improve model performance, especially for minority classes.**
+* To classify tweet sentiments as positive, negative, or neutral.
+* To compare sentiments and common word usage for Apple and Google products.
+* To build and evaluate binary text classifiers for positive vs. negative emotions.
+* To build and evaluate multiclass classifiers for positive, negative, and neutral emotions.
+* To improve model performance, especially for minority classes.
 
 ## 2. Data Understanding
 
 ### Dataset Overview
-**The dataset for this project is sourced from data.world, containing tweet texts and their associated sentiment labels towards specific brands or products.**
+The dataset for this project is sourced from **data.world**, containing tweet texts and their associated sentiment labels towards specific brands or products.
 
 **Initial Data Overview**: The dataset contains three columns: `tweet_text`, `emotion_in_tweet_is_directed_at`, and `is_there_an_emotion_directed_at_a_brand_or_product`.
 * **`tweet_text`**: Contains the raw tweet content.
@@ -41,9 +41,9 @@
 ## 3. Data Preparation
 
 ### Data Cleaning Highlights:
-* **Duplicated rows were identified and removed (22 duplicates).**
-* **Missing values in `tweet_text` (1 instance) were dropped.**
-* **For sentiment classification, 'No emotion toward brand or product' and 'I can't tell' were combined into a 'Neutral emotion' category for multiclass, while only 'Positive emotion' and 'Negative emotion' were used for binary classification.**
+* Duplicated rows were identified and removed (22 duplicates).
+* Missing values in `tweet_text` (1 instance) were dropped.
+* For sentiment classification, **'No emotion toward brand or product'** and **'I can't tell'** were combined into a 'Neutral emotion' category for multiclass, while only 'Positive emotion' and 'Negative emotion' were used for binary classification.
 
 ### Feature Engineering
 **A robust text preprocessing pipeline was implemented to prepare the tweet data for modeling**:
@@ -94,7 +94,7 @@
 
 ## 7. Conclusion
 
-**The project successfully demonstrated the application of NLP for Twitter sentiment classification.** **The models developed provide a foundation for companies like Apple and Google to track public sentiment.** **A key limitation identified is the inherent subjectivity and missing data within the crowd-sourced dataset, which significantly impacted the performance of multiclass classifiers, especially concerning the minority classes.**
+The project successfully demonstrated the application of NLP for Twitter sentiment classification. The models developed provide a foundation for companies like Apple and Google to track public sentiment. A key limitation identified is the inherent subjectivity and missing data within the crowd-sourced dataset, which significantly impacted the performance of multiclass classifiers, especially concerning the minority classes.
 
 ## 8. Technologies Used
 * Python
