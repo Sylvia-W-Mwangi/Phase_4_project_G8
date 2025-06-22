@@ -138,7 +138,7 @@ To further address class imbalance in multiclass classification, various samplin
 The project successfully aimed to develop a text classifier to accurately distinguish between positive, neutral, and negative sentiments, including identifying the reasons for such classifications. It also sought to compare sentiment towards Apple and Google products for competitive analysis and provide insights for increasing customer satisfaction.
 The models developed in this project equip companies such as Apple and Google with the means to effectively track sentiment related to their events and products across social media. This allows businesses to remain aware of public sentiment regarding their competitors, potentially offering a competitive advantage. However, a key limitation of the analysis stems from the crowd-sourced dataset, particularly the inherent subjectivity of how the tweets were classified and a significant amount of missing data from one of the features.
 
-## 8. Technologies Used
+## 8. Libraries Used
 * Python
 * **Pandas**: Data manipulation and analysis.
 * **NumPy**: Numerical operations.
@@ -148,3 +148,10 @@ The models developed in this project equip companies such as Apple and Google wi
 * **TensorFlow/Keras**: (Implied, if neural networks beyond basic MLP are developed, though not directly in the provided notebook's execution).
 * **Scikit-learn**: Machine learning models (Logistic Regression, Multinomial Naive Bayes, SVC, KNN, MLPClassifier), feature extraction (TfidfVectorizer, CountVectorizer), model selection (GridSearchCV), and evaluation metrics (classification_report, confusion_matrix, roc_curve, accuracy_score).
 * **Imblearn**: For handling imbalanced datasets (**SMOTE, RandomOverSampler, RandomUnderSampler, SMOTEENN, ImbPipeline**).
+* 
+# **Authors**
+[1. Sylvia Mwangi](#https://github.com/Sylvia-W-Mwangi)
+[2. Soudie Okwaro](#https://github.com/EdgarSoudie)
+[3. Ted Ronoh](#https://github.com/tedronoh-14)
+[4. Veronica Aoko](#https://github.com/veronica1948)
+
