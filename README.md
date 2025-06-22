@@ -96,11 +96,16 @@ The dataset for this project is sourced from **data.world**, containing tweet te
 
 The project successfully demonstrated the application of NLP for Twitter sentiment classification. The models developed provide a foundation for companies like Apple and Google to track public sentiment. A key limitation identified is the inherent subjectivity and missing data within the crowd-sourced dataset, which significantly impacted the performance of multiclass classifiers, especially concerning the minority classes.
 
-## 8. Technologies Used
-* Python
+## 8. Libraries Used
 * **Pandas**: Data manipulation and analysis.
 * **NumPy**: Numerical operations.
 * **Matplotlib, Seaborn**: Data visualization.
 * **NLTK**: Natural Language Toolkit for text preprocessing (tokenization, stopwords, stemming, VADER).
 * **Scikit-learn**: Machine learning models (Logistic Regression, Multinomial Naive Bayes, SVC, KNN, MLPClassifier), feature extraction (TfidfVectorizer, CountVectorizer), model selection (GridSearchCV), and evaluation metrics (classification_report, confusion_matrix, roc_curve, accuracy_score).
 * **Imblearn**: For handling imbalanced datasets (SMOTE, RandomOverSampler, ImbPipeline).
+
+* ## AUTHORS
+* [Sylvia Mwangi](https://github.com/Sylvia-W-Mwangi)
+* [Soudie Okwaro](https://github.com/EdgarSoudie)
+* [Ted Ronoh](https://github.com/tedronoh-14)
+* [Veronica Aoko](https://github.com/veronica1948)
