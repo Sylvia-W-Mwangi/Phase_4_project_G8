@@ -150,11 +150,11 @@ The models developed in this project equip companies such as Apple and Google wi
 * **Imblearn**: For handling imbalanced datasets (**SMOTE, RandomOverSampler, RandomUnderSampler, SMOTEENN, ImbPipeline**).
 * 
 # **Authors**
-[1. Sylvia Mwangi](#https://github.com/Sylvia-W-Mwangi)
+**[1. Sylvia Mwangi](#1-https://github.com/Sylvia-W-Mwangi)**
 
-[2. Soudie Okwaro](#https://github.com/EdgarSoudie)
+**[2. Soudie Okwaro](#2-https://github.com/EdgarSoudie)**
 
-[3. Ted Ronoh](#https://github.com/tedronoh-14)
+**[3. Ted Ronoh](#3-https://github.com/tedronoh-14)**
 
-[4. Veronica Aoko](#https://github.com/veronica1948)
+**[4. Veronica Aoko](#4-https://github.com/veronica1948)**
 
