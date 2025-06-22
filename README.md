@@ -151,7 +151,10 @@ The models developed in this project equip companies such as Apple and Google wi
 * 
 # **Authors**
 [1. Sylvia Mwangi](#https://github.com/Sylvia-W-Mwangi)
+
 [2. Soudie Okwaro](#https://github.com/EdgarSoudie)
+
 [3. Ted Ronoh](#https://github.com/tedronoh-14)
+
 [4. Veronica Aoko](#https://github.com/veronica1948)
 
