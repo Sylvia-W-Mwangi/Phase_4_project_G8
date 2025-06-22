@@ -102,7 +102,7 @@ The project successfully demonstrated the application of NLP for Twitter sentime
 * **Matplotlib, Seaborn**: Data visualization.
 * **NLTK**: Natural Language Toolkit for text preprocessing (tokenization, stopwords, stemming, VADER).
 * **Scikit-learn**: Machine learning models (Logistic Regression, Multinomial Naive Bayes, SVC, KNN, MLPClassifier), feature extraction (TfidfVectorizer, CountVectorizer), model selection (GridSearchCV), and evaluation metrics (classification_report, confusion_matrix, roc_curve, accuracy_score).
-* **Imblearn**: For handling imbalanced datasets (SMOTE, RandomOverSampler, Pipeline, SMOOTEEN).
+* **Imblearn**: For handling imbalanced datasets (SMOTE, RandomOverSampler, RandomUnderSampler, Pipeline, SMOTEEN).
 
 * ## AUTHORS
 * [Sylvia Mwangi](https://github.com/Sylvia-W-Mwangi)
